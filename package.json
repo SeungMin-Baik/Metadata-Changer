@@ -1,0 +1,12 @@
+{
+  "name": "cantata-metadata-changer",
+  "version": "1.0.0",
+  "description": "A tool to change metadata URLs NFT art projects.",
+  "main": "src/index.js",
+  "repository": "https://github.com/SeungMin-Baik/Metadata-Changer",
+  "keywords": [],
+  "author": "Min",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {}
+}
